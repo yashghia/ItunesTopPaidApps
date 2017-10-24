@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">InClass07</string>
+<string name="label_switch_ascending">Ascending</string>
+<string name="label_switch_descending">Descending</string>
+<string name="label_filterted_apps">Filterted Apps</string>
+<string name="label_appname">Price :</string>
+</resources>
+
